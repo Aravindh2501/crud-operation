@@ -1,0 +1,1 @@
+export const API_URL = 'https://651d020d44e393af2d58ff12.mockapi.io/CRUD' ;
